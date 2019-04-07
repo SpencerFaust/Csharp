@@ -1,0 +1,11 @@
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/SurlyIndeed/Documents/Atom Projects/New/Csharp/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
